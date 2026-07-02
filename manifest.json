@@ -1,7 +1,7 @@
 {
   "name": "QR Forge",
   "short_name": "QR Forge",
-  "description": "Turn any text or link into a QR code and save it to your device.",
+  "description": "Turn a link, note, or contact into a QR code and save it to your device.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
